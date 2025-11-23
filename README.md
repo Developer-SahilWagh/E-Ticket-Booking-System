@@ -12,34 +12,34 @@ It is designed to help beginners understand database design, table relationships
 
 ### 👤 User Management
 
-* Register new users
-* Store profile information
-* Maintain booking history
+* Register new users.
+* Store profile information.
+* Maintain booking history.
 
 ### 🎫 Event Management
 
-* Add and manage event listings
-* Store event name, date, venue, total seats, availability
+* Add and manage event listings.
+* Store event name, date, venue, total seats, availability.
 
 ### 🪑 Seat Reservation
 
-* Allocate seats per event
-* Block seats once booked
-* Prevent double booking
+* Allocate seats per event.
+* Block seats once booked.
+* Prevent double booking.
 
 ### 💳 Ticket Booking & Payments
 
-* Book seats for events
-* Automatically update available seats
-* Record secure payment details
-* Track payment status
+* Book seats for events.
+* Automatically update available seats.
+* Record secure payment details.
+* Track payment status.
 
-### 🔔 Notification Ready (Optional)
+### 🔔 Notification Ready
 
 Database supports future integration for:
 
-* Event reminders
-* Ticket confirmation alerts
+* Event reminders.
+* Ticket confirmation alerts.
 
 
 
@@ -70,22 +70,18 @@ Stores booking payments, amounts, dates, and status.
 
 ## 🛠️ Technologies Used
 
-* SQL (MySQL / MariaDB / PostgreSQL)
-* Database Design & ER Modeling
-* DML, DDL, Joins, Foreign Keys
-* Basic Constraints & Relational Concepts
+* SQL (MySQL / MariaDB / PostgreSQL).
+* Database Design & ER Modeling.
+* DML, DDL, Joins, Foreign Keys.
+* Basic Constraints & Relational Concepts.
 
 
 
 
 ## 🔮 Future Enhancements
 
-* Add stored procedures for automatic booking operations
-* Implement admin dashboard using frontend + backend
-* Add triggers for real-time seat updates
-* Implement event notifications via email/SMS
-* Add cancellation & refund modules
-
-
-**Sahil Wagh**
-Beginner SQL Developer | Tech Enthusiast
+* Add stored procedures for automatic booking operations.
+* Implement admin dashboard using frontend + backend.
+* Add triggers for real-time seat updates.
+* Implement event notifications via email/SMS.
+* Add cancellation & refund modules.
